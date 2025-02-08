@@ -1,0 +1,43 @@
+body {
+    background-image: linear-gradient(to right, #EBC390, #EBA142);
+}
+
+h1 {
+    color: #fff;
+}
+
+p {
+    color: #fff;
+    font-size: 14px;
+}
+
+a {
+    color: blue;
+    margin: 10px;
+    padding: 14px;
+    border: 10px 0px 0px 10px;
+}
+
+.square {
+    background-color: black;
+    width: 600px;
+    padding: 25px;
+    margin: auto;
+    box-shadow: 5px 3px 3px #EB8442;
+    border-radius: 2%;
+    font-size: larger;
+}
+
+strong {
+    color: blue;
+}
+
+span {
+    font-weight: bold;
+    background-color: aqua;
+    color: #22d4fd;
+    border: 1px solid #22d4fd;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 3px 2px 2px;
+}
